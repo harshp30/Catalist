@@ -13,3 +13,5 @@ Download netbeans IDE, Download files and move onto netbeans, Use netbeans built
 Option 2:
 
 To start the program on a mac. Download the zip file onto your desktop and unzip it. Navigate to src ---> main ----> java and on the java folder right click and  select open terminal, Type the command: "java catalist.java", It should now run.
+
+Feel free to reach out to us on the hackathon discord if you have any questions!
